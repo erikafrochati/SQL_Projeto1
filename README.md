@@ -27,15 +27,11 @@ Conheceremos diversos recursos dessa linguagem, além dos operadores, das funç�
 ***
 <h2>O que apreendemos?</h2>
 
-    Repositório em constante atualização. Volte sempre ;D
-
 - [X] Comando Create table, criando tabelas no banco de dados;
-- [X] 
-- [X]
-- [X]
-- [X]
-- [x]
-- [x]
+- [X] Criar tabelas (Comando Create Table) utilizando default;
+- [X] Inserir dados (Comaando Insert Into) em tabelas com default;
+- [X] Realizar a importação de arquivos CSV para popular o banco de dados.
+
     
 
 ****
