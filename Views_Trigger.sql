@@ -86,7 +86,10 @@ JOIN pedidos p ON c.id = p.idcliente
 JOIN itenspedidos ip ON p.id = ip.idpedido
 GROUP BY p.id, c.nome
 
-/*Para isso, vamos utilizar um novo recurso da linguagem SQL, que são as views. Uma view, ou visualização, é exatamente o que o próprio nome diz. 
+/*
+VIEW
+Uma VIEW em SQL é uma consulta armazenada que cria uma representação virtual de uma tabela a partir dos resultados de uma consulta SQL.    
+Para isso, vamos utilizar um novo recurso da linguagem SQL, que são as views. Uma view, ou visualização, é exatamente o que o próprio nome diz. 
 No SQL, se trata de uma tabela virtual, ou seja, ela não existe fisicamente, mas é criada a partir do resultado de uma consulta SQL.
 
 Para criá-la, usamos o CREATE e adicionamos a palavra VIEW. Em seguida, precisamos dar um nome para a nossa VIEW. Vamos chamá-la de ViewCliente.
@@ -132,6 +135,8 @@ WHERE strftime('%m', datahorapedido) = '08'
 /*Criando TRIGGER*/
 
 /*
+TRIGGER
+Uma Trigger é um procedimento armazenado que é executado automaticamente em resposta a um evento específico em uma tabela.
 Com DATE, extraímos de datahorapedido apenas a data, e damos o alias de Dia. Precisamos do preço unitário, então, ip.precounitario. Sabemos que precisamos somar esse campo, 
 porque já temos o valor por produto, naquele pedido específico, então, só precisamos somar esse valor. Sendo assim, vamos dar um SUM() em ip.precounitario e colocar um alias de FaturamentoDiario.
 Ao executar a consulta, obtemos como resultado a data e o faturamento diário, que na realidade não está diário, está o faturamento total de todas as vendas.
