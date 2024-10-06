@@ -39,6 +39,10 @@ Conheceremos diversos recursos dessa linguagem, além dos operadores, das funç�
 - [X] Conhecer como utilizar o INNER JOIN;
 - [X] Aprender a trabalhar com o RIGHT e LEFT JOIN;
 - [X] Executar consultas com FULL JOIN.
+- [X] Conhecer como criar VIEWs;
+- [X] Utilizar VIEWs em consultas;
+- [X] Criar TRIGGER com INSERT;
+- [X] Entender como acionar uma TRIGGER.
 
     
 
