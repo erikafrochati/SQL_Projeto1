@@ -31,6 +31,11 @@ Conheceremos diversos recursos dessa linguagem, além dos operadores, das funç�
 - [X] Criar tabelas (Comando Create Table) utilizando default;
 - [X] Inserir dados (Comaando Insert Into) em tabelas com default;
 - [X] Realizar a importação de arquivos CSV para popular o banco de dados.
+- [X] Executar consultas com union;
+- [X] Conhecer o union all;
+- [X] Estudar sobre subconsultas;
+- [X] Utilizar subconsulta com IN;
+- [X] Aplicar subconsultas com HAVING.
 
     
 
