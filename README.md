@@ -13,19 +13,20 @@ SQLite não é uma biblioteca cliente usada para conectar com um grande servidor
 ## 🛠️ Construído com
 
 * [SQLITE](https://www.sqlite.org/)
+* [SQLITE](https://sqliteonline.com/)
 
 ***
 <h2>O que apreendemos?</h2>
 
     Repositório em constante atualização. Volte sempre ;D
 
-[]
-[]
-[]
-[]
-[]
-[]
-[]
+- [X] Comando Create table, criando tabelas no banco de dados;
+- [X] 
+- [X]
+- [X]
+- [X]
+- [x]
+- [x]
     
 
 ****
