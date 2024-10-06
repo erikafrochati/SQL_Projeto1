@@ -36,6 +36,9 @@ Conheceremos diversos recursos dessa linguagem, além dos operadores, das funç�
 - [X] Estudar sobre subconsultas;
 - [X] Utilizar subconsulta com IN;
 - [X] Aplicar subconsultas com HAVING.
+- [X] Conhecer como utilizar o INNER JOIN;
+- [X] Aprender a trabalhar com o RIGHT e LEFT JOIN;
+- [X] Executar consultas com FULL JOIN.
 
     
 
