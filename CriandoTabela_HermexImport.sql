@@ -111,6 +111,38 @@ create table tabelapedidosgold(
   from tabelapedidos
   WHERE total_do_pedido >= 400;
   
-  SELECT * from tabelapedidosgold;
+ SELECT * from tabelapedidosgold;
   
+ SELECT * from tabelapedidos WHERE total_do_pedido >= 200;
   
+ SELECT * from tabelapedidos WHERE total_do_pedido <= 200;
+  
+ SELECT * from tabelapedidos WHERE total_do_pedido < 200;
+  
+ SELECT * from tabelapedidos WHERE total_do_pedido <> 200;
+ 
+ SELECT * from tabelaclientes WHERE nome_cliente > 'C';
+ 
+ SELECT * from tabelapedidos WHERE data_do_pedido > '2023-09-19';
+ 
+ SELECT * from tabelapedidos;
+ 
+ SELECT * FROM tabelapedidos WHERE total_do_pedido >= 200 AND Status = 'Pendente';
+ 
+ SELECT * FROM tabelapedidos WHERE status = 'Pendente' OR status = 'Processando';
+ 
+ SELECT * FROM tabelapedidos WHERE NOT status = 'Pendente';
+ 
+ SELECT * FROM tabelapedidos WHERE data_de_envio_estimada BETWEEN '2023-08-01' AND '2023-09-01';
+ 
+ SELECT * from tabelaprodutos WHERE preco_de_compra BETWEEN 200 and 600 ORDER by nome_do_produto; 
+ 
+ SELECT * from tabelaprodutos WHERE preco_de_compra BETWEEN 200 and 600 ORDER by data_de_inclusao;
+  
+ SELECT * from tabelaprodutos WHERE preco_de_compra BETWEEN 200 and 600 ORDER by fornecedor DESC;
+ 
+ SELECT informacoes_de_contato AS email_cliente FROM tabelaclientes;
+ 
+
+
+ 
