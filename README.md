@@ -31,6 +31,10 @@ Conheceremos diversos recursos dessa linguagem, além dos operadores, das funç�
 - [X] Importar arquivos no sqliteonline;
 - [X] Utilizar o comando SELECT;
 - [X] Aplicar os filtros WHERE e DISTINCT.
+- [X] Criar tabelas através do comando CREATE TABLE;
+- [X] Alterar e excluir tabelas com os comandos ALTER TABLE e DROP TABLE;
+- [X] O que é uma chave primária e como criá-la através do comando PRIMARY KEY;
+- [X] O que é uma chave estrangeira e como criá-la através do comando FOREIGN KEY.
 - [X] Comando Create table, criando tabelas no banco de dados;
 - [X] Criar tabelas (Comando Create Table) utilizando default;
 - [X] Inserir dados (Comaando Insert Into) em tabelas com default;
