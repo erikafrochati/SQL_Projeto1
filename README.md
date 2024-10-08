@@ -39,6 +39,10 @@ Conheceremos diversos recursos dessa linguagem, além dos operadores, das funç�
 - [X] Inserir uma linha de dados utilizando o comando INSERT;
 - [X] Inserir múltiplas linhas de dados utilizando o comando INSERT;
 - [X] Utilizar o comando INSERT combinado com o SELECT.
+- [X] Aplicar filtros (>,<,=,<>);
+- [X] Utilizar filtros compostos (AND, OR, NOT BETWEEN);
+- [X] Ordenar os dados utilizando o comando ORDER BY;
+- [X] Utilizar ALIAS nas consultas.
 - [X] Criar tabelas (Comando Create Table) utilizando default;
 - [X] Inserir dados (Comando Insert Into) em tabelas com default;
 - [X] Realizar a importação de arquivos CSV para popular o banco de dados.
