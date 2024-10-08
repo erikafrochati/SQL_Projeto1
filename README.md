@@ -26,6 +26,7 @@ Conheceremos diversos recursos dessa linguagem, além dos operadores, das funç�
 
 ***
 <h2>O que apreendemos?</h2>
+
 - [X] Acessar o sqliteonline;
 - [X] Importar arquivos no sqliteonline;
 - [X] Utilizar o comando SELECT;
