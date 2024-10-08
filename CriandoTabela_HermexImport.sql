@@ -143,6 +143,24 @@ create table tabelapedidosgold(
  
  SELECT informacoes_de_contato AS email_cliente FROM tabelaclientes;
  
+UPDATE tabelapedidos SET status = 'Enviado' WHERE status = 'Processando';
 
-
+SELECT * FROM tabelapedidos;
  
+UPDATE tabelaclientes SET informacoes_de_contato = 'j.santos@email.com', 
+endereco_cliente = 'Rua dos paralelepipedos, 30 '
+WHERE id_cliente = 3;
+
+SELECT * FROM tabelaclientes;
+
+DELETE FROM tabelafornecedores WHERE país_de_origem = 'Turquia';
+
+SELECT * FROM tabelafornecedores;
+
+DELETE FROM tabelafornecedores` e especificamos com `WHERE id > 35;
+
+DELETE FROM tabelafornecedores WHERE país_de_origem = 'Turquia';
+
+SELECT * FROM tabelafornecedores;
+
+DELETE FROM tabelafornecedores WHERE id > 35;
