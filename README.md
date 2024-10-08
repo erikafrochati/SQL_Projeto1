@@ -26,7 +26,10 @@ Conheceremos diversos recursos dessa linguagem, além dos operadores, das funç�
 
 ***
 <h2>O que apreendemos?</h2>
-
+- [X] Acessar o sqliteonline;
+- [X] Importar arquivos no sqliteonline;
+- [X] Utilizar o comando SELECT;
+- [X] Aplicar os filtros WHERE e DISTINCT.
 - [X] Comando Create table, criando tabelas no banco de dados;
 - [X] Criar tabelas (Comando Create Table) utilizando default;
 - [X] Inserir dados (Comaando Insert Into) em tabelas com default;
