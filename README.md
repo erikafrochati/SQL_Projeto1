@@ -43,6 +43,8 @@ Conheceremos diversos recursos dessa linguagem, além dos operadores, das funç�
 - [X] Utilizar filtros compostos (AND, OR, NOT BETWEEN);
 - [X] Ordenar os dados utilizando o comando ORDER BY;
 - [X] Utilizar ALIAS nas consultas.
+- [X] Alterar os dados utilizando o comando UPDATE;
+- [X] Excluir os dados utilizando o comando DELETE.
 - [X] Criar tabelas (Comando Create Table) utilizando default;
 - [X] Inserir dados (Comando Insert Into) em tabelas com default;
 - [X] Realizar a importação de arquivos CSV para popular o banco de dados.
