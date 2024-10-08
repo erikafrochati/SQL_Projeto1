@@ -36,8 +36,11 @@ Conheceremos diversos recursos dessa linguagem, além dos operadores, das funç�
 - [X] O que é uma chave primária e como criá-la através do comando PRIMARY KEY;
 - [X] O que é uma chave estrangeira e como criá-la através do comando FOREIGN KEY.
 - [X] Comando Create table, criando tabelas no banco de dados;
+- [X] Inserir uma linha de dados utilizando o comando INSERT;
+- [X] Inserir múltiplas linhas de dados utilizando o comando INSERT;
+- [X] Utilizar o comando INSERT combinado com o SELECT.
 - [X] Criar tabelas (Comando Create Table) utilizando default;
-- [X] Inserir dados (Comaando Insert Into) em tabelas com default;
+- [X] Inserir dados (Comando Insert Into) em tabelas com default;
 - [X] Realizar a importação de arquivos CSV para popular o banco de dados.
 - [X] Executar consultas com union;
 - [X] Conhecer o union all;
