@@ -1,6 +1,5 @@
-# 🛠️ Estamos em construção: SQL_LITE
- Conhecendo SQLite Online primeiros passos
-
+Conhecendo SQLite Online primeiros passos
+***
 
 # SQLite
 SQLite é uma biblioteca em linguagem C que implementa uma base de dados SQL embutida. Programas que usem a biblioteca SQLite podem ter acesso a banco de dados SQL sem executar um processo SGBD separado.
