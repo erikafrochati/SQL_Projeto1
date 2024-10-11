@@ -59,7 +59,11 @@ Conheceremos diversos recursos dessa linguagem, além dos operadores, das funç�
 - [X] Conhecer como criar VIEWs;
 - [X] Utilizar VIEWs em consultas;
 - [X] Criar TRIGGER com INSERT;
-- [X] Entender como acionar uma TRIGGER.
+- [X] Entender como acionar uma TRIGGER;
+- [X] Atualizar dados utilizando o UPDATE;
+- [X] Executar exclusão dos dados com o DELETE CASCADE;
+- [X] Conhecer sobre transações;
+- [X] Iniciar transações e encerrar com COMMIT e ROLLBACK.
 
     
 
